@@ -1,0 +1,11 @@
+{
+  "name": "DeathPoints",
+  "title": "Death Points",
+  "author": "4erem6a",
+  "contact": "",
+  "homepage": "",
+  "version": "1.2.2",
+  "factorio_version": "0.17",
+  "description": "Creates map labels when player dies.",
+  "dependencies": ["base >= 0.16.0"]
+}
